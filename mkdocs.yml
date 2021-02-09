@@ -1,0 +1,5 @@
+site_name: 金融业通识
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
